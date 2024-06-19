@@ -18,7 +18,7 @@ menghasilkan ID unik, dan mengelola pengiriman pesan dengan logika retry.
 
 2. Masuk ke direktori proyek:
     ```bash
-    cd backend-bootcamp
+    cd backend-leads-boost
     ```
 
 3. Instal dependensi:
